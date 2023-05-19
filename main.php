@@ -38,8 +38,6 @@ if (!isset($_SESSION['friendlycaptcha_passed']) || $_SESSION['friendlycaptcha_pa
     <!-- Libraries Stylesheet -->
     <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
     <link href="lib/lightbox/css/lightbox.min.css" rel="stylesheet">
-
-    <!-- Customized Bootstrap Stylesheet -->
     <link href="css/style.css" rel="stylesheet">
 </head>
 
@@ -321,8 +319,8 @@ if (!isset($_SESSION['friendlycaptcha_passed']) || $_SESSION['friendlycaptcha_pa
 
 
     <!-- Portfolio Start -->
-<div class="container-fluid pt-5 pb-3" id="portfolio">
-    <div class="container">
+    <div class="container-fluid pt-5 pb-3" id="portfolio">
+        <div class="container">
             <div class="position-relative d-flex align-items-center justify-content-center">
                 <h1 class="display-2 text-uppercase text-white" style="-webkit-text-stroke: 2px #dee2e6;">Gallery</h1>
                 <h1 class="position-absolute text-uppercase text-primary">My Portfolio</h1>
@@ -392,7 +390,6 @@ if (!isset($_SESSION['friendlycaptcha_passed']) || $_SESSION['friendlycaptcha_pa
             </div>
         </div>
     </div>
-</div>
     <!-- Portfolio End -->
 
 
@@ -513,31 +510,31 @@ if (!isset($_SESSION['friendlycaptcha_passed']) || $_SESSION['friendlycaptcha_pa
             <a href="https://www.ssltrust.com.au/security-report?domain=jmgonzales.myapc.edu.ph" rel="nofollow" target="_blank"> <img src="img/report_small.png" class="ssltrust-img"></a>
         </div>
     </div>
-    <!-- Footer End -->
+ <!-- Footer End -->
 
-    <!-- Scroll to Bottom -->
-    <i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
+ <!-- Scroll to Bottom -->
+<i class="fa fa-2x fa-angle-down text-white scroll-to-bottom"></i>
 
-    <!-- Back to Top -->
-    <a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+<!-- Back to Top -->
+<a href="#" class="btn btn-outline-dark px-0 back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
 
-    <!-- JavaScript Libraries -->
-    <!-- JavaScript Libraries -->
-    <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
-    <script src="lib/typed/typed.min.js"></script>
-    <script src="lib/easing/easing.min.js"></script>
-    <script src="lib/waypoints/waypoints.min.js"></script>
-    <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="lib/lightbox/js/lightbox.min.js"></script>
+<!-- JavaScript Libraries -->
+<!-- JavaScript Libraries -->
+<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+<script src="lib/typed/typed.min.js"></script>
+<script src="lib/easing/easing.min.js"></script>
+<script src="lib/waypoints/waypoints.min.js"></script>
+<script src="lib/owlcarousel/owl.carousel.min.js"></script>
+<script src="lib/isotope/isotope.pkgd.min.js"></script>
+<script src="lib/lightbox/js/lightbox.min.js"></script>
 
-    <!-- Contact Javascript File -->
-    <script src="contact.js"></script>
+<!-- Contact Javascript File -->
+<script src="contact.js"></script>
 
-    <!-- Main Javascript -->
-    <script src="js/main.js"></script>
+<!-- Main Javascript -->
+<script src="js/main.js"></script>
 
 </body>
 
